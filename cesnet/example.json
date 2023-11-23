@@ -1,0 +1,10 @@
+{
+  "vutlogin": "",
+  "vutpassword": "",
+  "server_name": "",
+  "image": "Minimal NB",
+  "home": "",
+  "cpu": 8,
+  "ram": 16,
+  "gpu": "any whole gpu"
+}
